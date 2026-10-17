@@ -26,7 +26,7 @@ const dimensions = [
   { number: '01', title: '传播主体', description: '人机共生：组织×平台×AI×公众，AI是中介、主体，也是受众。' },
   { number: '02', title: '传播机制', description: '数据力打底、人—机—人为途径、信任力为内核的机制链条。' },
   { number: '03', title: '传播目标', description: '四级跃迁：被看见→被理解→被采信→被选择。' },
-  { number: '04', title: '传播体系', description: '用户洞察、内容生成、智能分发、人机交互闭环运转。' },
+  { number: '04', title: '传播体系', description: '用户洞察、内容生成、智能分发、人机交互、信任共生，闭环运转。' },
   { number: '05', title: '传播分层', description: '国家层（认知主权）、城市层（认知定义权）、企业层（信任资产）。' },
 ]
 
@@ -45,7 +45,7 @@ const steps = [
         <div class="eyebrow-row">
           <span>STRATEGIC COMMUNICATION</span><span class="eyebrow-rule" aria-hidden="true"></span><span>开放共写 · 传播系列总纲</span>
         </div>
-        <h1 id="home-title"><strong>AI战略传播力</strong><span>AI时代的战略传播理论体系与行动框架</span></h1>
+        <h1 id="home-title"><strong>AI战略传播力</strong><span>AI时代的战略传播<br />理论体系与行动框架</span></h1>
         <p class="signal-hero__tagline">传播力即竞争力</p>
         <p class="signal-hero__authors">钟沈军 · 任国刚 · 吴鹏 著</p>
         <div class="signal-actions">
@@ -55,9 +55,9 @@ const steps = [
       </div>
 
       <div class="signal-hero__visual">
-        <img src="/assets/framework-blueprint.png" alt="战略传播三角模型：AI时代战略传播理论总图" />
-        <p class="visual-kicker">FIVE-DIMENSION<br />FRAMEWORK</p>
-        <p class="visual-statement">一个内核<br />认知环境塑造 × 信任资产治理</p>
+        <img src="/assets/model-conjugate.png" alt="战略传播双∞共轭模型总图：纵向理论环与横向运行环" />
+        <p class="visual-kicker">DUAL-INFINITY<br />CONJUGATE MODEL</p>
+        <p class="visual-statement">双∞共轭模型<br />战略牵引智能 · 智能反馈战略</p>
         <p class="visual-caption">从注意力到竞争力<br />四级跃迁的完整路径</p>
       </div>
     </section>

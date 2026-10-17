@@ -170,7 +170,8 @@
 
 .signal-hero h1 strong {
   color: var(--stratcom-blue);
-  font-size: clamp(76px, 7.8vw, 126px);
+  font-size: clamp(58px, 6.4vw, 94px);
+  white-space: nowrap;
 }
 
 .signal-hero h1 span {
@@ -239,56 +240,64 @@
 .signal-hero__visual {
   position: relative;
   min-height: 430px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 64px 40px 74px;
   overflow: hidden;
-  color: #fff;
-  background: var(--stratcom-blue);
+  color: var(--stratcom-ink);
+  background: #fff;
+  border: 1px solid var(--stratcom-rule);
 }
 
 .signal-hero__visual img {
   width: 100%;
-  height: 100%;
+  max-width: 560px;
+  height: auto;
+  max-height: 100%;
   margin: 0;
-  object-fit: cover;
-  object-position: center bottom;
-  opacity: 0.92;
+  object-fit: contain;
 }
 
 .signal-hero__visual p {
   position: absolute;
   margin: 0 !important;
-  color: #fff;
+  color: var(--stratcom-blue);
 }
 
 .visual-kicker {
-  top: 42px;
-  left: 42px;
+  top: 28px;
+  left: 32px;
   font-family: var(--vp-font-family-mono);
   font-size: 12px;
   letter-spacing: 0.22em;
 }
 
 .visual-statement {
-  top: 44px;
-  right: 36px;
-  padding-left: 18px;
-  border-left: 1px solid rgba(255, 255, 255, 0.7);
-  font-size: 14px;
+  top: 28px;
+  right: 32px;
+  padding-left: 14px;
+  border-left: 1px solid var(--stratcom-orange);
+  font-size: 13px;
   font-weight: 700;
   letter-spacing: 0.08em;
+  text-align: left;
 }
 
 .visual-caption {
   right: 0;
   bottom: 0;
-  padding: 18px 28px;
-  background: rgba(27, 52, 104, 0.92);
+  padding: 14px 28px;
+  border-top: 1px solid var(--stratcom-rule);
+  background: var(--stratcom-paper);
+  color: #536078 !important;
   font-size: 13px;
   letter-spacing: 0.08em;
 }
 
 .capability-strip {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(5, 1fr);
   padding: 0 42px 24px;
 }
 
@@ -600,6 +609,7 @@
 
   .signal-hero__visual {
     min-height: 330px;
+    padding: 52px 20px 62px;
   }
 
   .visual-kicker {
@@ -696,4 +706,17 @@
   --stratcom-paper: #0E1526;
   --stratcom-orange: #FF9440;
   --stratcom-rule: rgba(232, 236, 245, 0.18);
+}
+
+.dark .signal-hero__visual {
+  background: #fff;
+}
+
+.dark .signal-hero__visual p {
+  color: #24478E;
+}
+
+.dark .visual-caption {
+  background: #fff;
+  color: #536078 !important;
 }
