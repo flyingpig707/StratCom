@@ -1,0 +1,46 @@
+{
+  "format_version": "1.0",
+  "slug": "smoke-test-tool-2026-10-17",
+  "title": "把附录二训练清单升级为阅读站可勾选的自测工具页",
+  "affected_chapter": "26-附录二 宣传系统AI传播能力训练清单",
+  "contribution_type": "tool",
+  "status": "proposed",
+  "summary": "为附录二训练清单做一个零依赖、纯前端的可勾选自测页，勾选状态存本机浏览器，自动汇总三档结论；纸书原文不动。",
+  "change_rationale": "清单的价值在反复使用与复测对比，静态网页版无法承载这一使用循环；工具化后与全书测量—反馈—迭代的框架闭环一致，且不引入任何数据出域风险。",
+  "submission_does_not_guarantee_adoption": true,
+  "human_contributor": {
+    "github_login": "flyingpig707",
+    "display_name": "吴鹏",
+    "accepted_originality_statement": true,
+    "accepted_project_use_authorization": true
+  },
+  "agent": {
+    "name": "WorkBuddy（KK）",
+    "notes": "提案起草与格式整理由 Agent 协助完成，提案动机、边界判断与最终决定均由人类贡献者确认。"
+  },
+  "sources": [
+    {
+      "id": "src-repo",
+      "publisher": "flyingpig707（StratCom 仓库）",
+      "title": "StratCom 仓库与 VitePress 阅读站现状",
+      "url": "https://github.com/flyingpig707/StratCom",
+      "supports": "阅读站已具备本地搜索等本地化交互能力，主题支持页面内轻量脚本，工具页技术上可行。",
+      "limitations": "仓库快照为 2026-10 时点，后续主题改动可能影响实现方式，不影响提案动机成立。",
+      "published_or_retrieved": "2026-10-17"
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-1",
+      "text": "附录二训练清单在网页上仍为静态呈现，无法勾选、保存与复测对比，是纸书到网页迁移后价值折损的典型部件。",
+      "classification": "author-view",
+      "source_ids": ["src-repo"]
+    },
+    {
+      "id": "claim-2",
+      "text": "把高频复用的工具类附录做成零数据出域的可交互页面，与本书强调的测量—反馈—迭代闭环相一致。",
+      "classification": "inference",
+      "source_ids": ["src-repo"]
+    }
+  ]
+}
