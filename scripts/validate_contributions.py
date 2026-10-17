@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Deterministically validate one or more 《破圈力》 contribution packages."""
+"""Deterministically validate one or more 《AI战略传播力》 contribution packages."""
 
 from __future__ import annotations
 
