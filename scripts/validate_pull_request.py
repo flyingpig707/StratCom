@@ -13,7 +13,7 @@ ROOT = Path(__file__).resolve().parents[1]
 
 def changed_files(base_ref: str) -> list[str]:
     completed = subprocess.run(
-        ["git", "diff", "--name-only", f"{base_ref}...HEAD"],
+        ["git", "-c", "core.quotepath=false", "diff", "--name-only", f"{base_ref}...HEAD"],
         cwd=ROOT,
         check=True,
         text=True,
@@ -52,7 +52,7 @@ def main() -> int:
                     )
     else:
         allowed_prefixes = ("book/", "media/")
-        allowed_files = {"CONTRIBUTORS.md", "CHANGELOG.md"}
+        allowed_files = {"CONTRIBUTORS.md", "CHANGELOG.md", "VERSION"}
         forbidden = [path for path in changed if not path.startswith(allowed_prefixes) and path not in allowed_files]
         if forbidden:
             errors.append("editorial PRs may change only book/, media/, CONTRIBUTORS.md, and CHANGELOG.md")
