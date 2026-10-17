@@ -47,15 +47,15 @@ const steps = [
         </div>
         <h1 id="home-title"><strong>AI战略传播力</strong><span>AI时代的战略传播理论体系与行动框架</span></h1>
         <p class="signal-hero__tagline">传播力即竞争力</p>
-        <p class="signal-hero__authors">钟诚 · 任国刚 · 吴鹏 著</p>
+        <p class="signal-hero__authors">钟沈军 · 任国刚 · 吴鹏 著</p>
         <div class="signal-actions">
-          <a class="signal-button signal-button--primary" href="/01-%E5%89%8D%E8%A8%80%20AI%E6%97%B6%E4%BB%A3%E5%BF%85%E9%A1%BB%E9%87%8D%E5%BB%BA%E6%88%98%E7%95%A5%E4%BC%A0%E6%92%AD">开始阅读</a>
+          <a class="signal-button signal-button--primary" href="/01-%E5%89%8D%E8%A8%80%20%E6%AC%B2%E5%8A%A8%E5%A4%A9%E4%B8%8B%E8%80%85%EF%BC%8C%E5%BD%93%E5%85%88%E5%8A%A8%E5%A4%A9%E4%B8%8B%E4%B9%8B%E2%80%9C%E8%8A%AF%E2%80%9D">开始阅读</a>
           <a class="signal-button signal-button--secondary" href="#coauthor">参与共同写作</a>
         </div>
       </div>
 
       <div class="signal-hero__visual">
-        <img src="/assets/framework-blueprint.png" alt="五维一体：AI时代战略传播理论框架总图" />
+        <img src="/assets/framework-blueprint.png" alt="战略传播三角模型：AI时代战略传播理论总图" />
         <p class="visual-kicker">FIVE-DIMENSION<br />FRAMEWORK</p>
         <p class="visual-statement">一个内核<br />认知环境塑造 × 信任资产治理</p>
         <p class="visual-caption">从注意力到竞争力<br />四级跃迁的完整路径</p>
@@ -103,7 +103,7 @@ const steps = [
     <section class="about-book" aria-labelledby="about-title">
       <p class="section-kicker">ABOUT THE BOOK</p>
       <h2 id="about-title">不是又一本传播学教材，<br />而是一套AI时代的传播行动框架。</h2>
-      <p>《AI战略传播力》是传播系列「一纲四论」的总纲：以五维一体框架回答国家、城市、企业三层主体的 AI 时代传播命题，配套四级跃迁体检表与全套工具包。《信任力》《破圈力》《产品力》《数据力》为系列专论。</p>
+      <p>《AI战略传播力》是传播系列「一纲四论」的总纲：以双∞共轭模型——五维一体理论环 × 五力飞轮运行环——回答国家、城市、企业三层主体的 AI 时代传播命题，配套四级跃迁体检表与全套工具包。《信任力》《破圈力》《产品力》《数据力》为系列专论。</p>
       <a class="text-link" href="/00-%E5%B0%81%E9%9D%A2">查看全书目录</a>
     </section>
   </main>
