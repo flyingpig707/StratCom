@@ -1,0 +1,659 @@
+{
+  "source": "/Users/wu/Desktop/1-共生岛/6-pr/03-传播系列/AI战略传播/1-任总第一版/AI战略传播力2026-10-02.docx",
+  "generated_by": "scripts/split_docx.py",
+  "files": [
+    {
+      "file": "01-前言 AI时代必须重建战略传播.md",
+      "chars": 5381,
+      "images": 2,
+      "grid_tables": 0,
+      "box_tables": 0,
+      "refs": 0
+    },
+    {
+      "file": "02-第一篇导论.md",
+      "chars": 866,
+      "images": 0,
+      "grid_tables": 0,
+      "box_tables": 0,
+      "refs": 0
+    },
+    {
+      "file": "03-范式之变.md",
+      "chars": 14720,
+      "images": 3,
+      "grid_tables": 4,
+      "box_tables": 4,
+      "refs": 1
+    },
+    {
+      "file": "04-理论总纲.md",
+      "chars": 13794,
+      "images": 4,
+      "grid_tables": 4,
+      "box_tables": 4,
+      "refs": 1
+    },
+    {
+      "file": "05-运行体系.md",
+      "chars": 13658,
+      "images": 4,
+      "grid_tables": 7,
+      "box_tables": 3,
+      "refs": 1
+    },
+    {
+      "file": "06-分层架构.md",
+      "chars": 14081,
+      "images": 3,
+      "grid_tables": 6,
+      "box_tables": 3,
+      "refs": 1
+    },
+    {
+      "file": "07-第二篇导论.md",
+      "chars": 944,
+      "images": 0,
+      "grid_tables": 0,
+      "box_tables": 0,
+      "refs": 0
+    },
+    {
+      "file": "08-国家建构.md",
+      "chars": 13690,
+      "images": 3,
+      "grid_tables": 5,
+      "box_tables": 3,
+      "refs": 1
+    },
+    {
+      "file": "09-国际传播.md",
+      "chars": 15382,
+      "images": 3,
+      "grid_tables": 7,
+      "box_tables": 2,
+      "refs": 1
+    },
+    {
+      "file": "10-危机治理.md",
+      "chars": 15047,
+      "images": 2,
+      "grid_tables": 7,
+      "box_tables": 2,
+      "refs": 1
+    },
+    {
+      "file": "11-第三篇导论.md",
+      "chars": 953,
+      "images": 0,
+      "grid_tables": 0,
+      "box_tables": 0,
+      "refs": 0
+    },
+    {
+      "file": "12-城市定位.md",
+      "chars": 14979,
+      "images": 3,
+      "grid_tables": 7,
+      "box_tables": 2,
+      "refs": 1
+    },
+    {
+      "file": "13-文旅转化.md",
+      "chars": 14158,
+      "images": 3,
+      "grid_tables": 5,
+      "box_tables": 2,
+      "refs": 1
+    },
+    {
+      "file": "14-招商传播.md",
+      "chars": 14448,
+      "images": 3,
+      "grid_tables": 6,
+      "box_tables": 2,
+      "refs": 1
+    },
+    {
+      "file": "15-城市治理.md",
+      "chars": 14436,
+      "images": 3,
+      "grid_tables": 6,
+      "box_tables": 2,
+      "refs": 1
+    },
+    {
+      "file": "16-第四篇导论.md",
+      "chars": 942,
+      "images": 0,
+      "grid_tables": 0,
+      "box_tables": 0,
+      "refs": 0
+    },
+    {
+      "file": "17-企业战略.md",
+      "chars": 14659,
+      "images": 3,
+      "grid_tables": 9,
+      "box_tables": 2,
+      "refs": 1
+    },
+    {
+      "file": "18-营销闭环.md",
+      "chars": 14400,
+      "images": 3,
+      "grid_tables": 7,
+      "box_tables": 2,
+      "refs": 1
+    },
+    {
+      "file": "19-科技信任.md",
+      "chars": 14503,
+      "images": 3,
+      "grid_tables": 7,
+      "box_tables": 2,
+      "refs": 1
+    },
+    {
+      "file": "20-声誉管理.md",
+      "chars": 13883,
+      "images": 3,
+      "grid_tables": 6,
+      "box_tables": 2,
+      "refs": 1
+    },
+    {
+      "file": "21-第五篇导论.md",
+      "chars": 604,
+      "images": 0,
+      "grid_tables": 0,
+      "box_tables": 0,
+      "refs": 0
+    },
+    {
+      "file": "22-重大事件.md",
+      "chars": 14167,
+      "images": 3,
+      "grid_tables": 8,
+      "box_tables": 2,
+      "refs": 1
+    },
+    {
+      "file": "23-海外协同.md",
+      "chars": 13813,
+      "images": 3,
+      "grid_tables": 6,
+      "box_tables": 2,
+      "refs": 1
+    },
+    {
+      "file": "24-结语 传播力即竞争力.md",
+      "chars": 5218,
+      "images": 1,
+      "grid_tables": 1,
+      "box_tables": 0,
+      "refs": 0
+    },
+    {
+      "file": "25-附录一 四级跃迁传播力体检表.md",
+      "chars": 723,
+      "images": 0,
+      "grid_tables": 3,
+      "box_tables": 0,
+      "refs": 0
+    },
+    {
+      "file": "26-附录二 宣传系统AI传播能力训练清单.md",
+      "chars": 635,
+      "images": 0,
+      "grid_tables": 3,
+      "box_tables": 0,
+      "refs": 0
+    },
+    {
+      "file": "27-附录三 传播力评估指标体系.md",
+      "chars": 410,
+      "images": 0,
+      "grid_tables": 2,
+      "box_tables": 0,
+      "refs": 0
+    },
+    {
+      "file": "28-附录四 企业AI传播合规与内容审核清单.md",
+      "chars": 612,
+      "images": 0,
+      "grid_tables": 2,
+      "box_tables": 0,
+      "refs": 0
+    },
+    {
+      "file": "29-附录五 三主体协同传播模板.md",
+      "chars": 598,
+      "images": 0,
+      "grid_tables": 3,
+      "box_tables": 0,
+      "refs": 0
+    },
+    {
+      "file": "30-附录六 全球AI传播政策对照表.md",
+      "chars": 557,
+      "images": 0,
+      "grid_tables": 2,
+      "box_tables": 0,
+      "refs": 0
+    },
+    {
+      "file": "31-附录七 国家—城市—企业三级危机治理与信任修复工具包.md",
+      "chars": 515,
+      "images": 0,
+      "grid_tables": 3,
+      "box_tables": 0,
+      "refs": 0
+    },
+    {
+      "file": "32-附录八 出海与本地化传播工具包.md",
+      "chars": 533,
+      "images": 0,
+      "grid_tables": 3,
+      "box_tables": 0,
+      "refs": 0
+    },
+    {
+      "file": "33-附录九 测量指标词典与中文复测协议.md",
+      "chars": 577,
+      "images": 0,
+      "grid_tables": 2,
+      "box_tables": 0,
+      "refs": 0
+    }
+  ],
+  "media": {
+    "images": 55,
+    "naming": "按 body 流出现顺序 image1-55.png",
+    "map": {
+      "61": [
+        [
+          "image1.png",
+          "media/image1.png"
+        ]
+      ],
+      "67": [
+        [
+          "image2.png",
+          "media/image2.png"
+        ]
+      ],
+      "111": [
+        [
+          "image3.png",
+          "media/image3.png"
+        ]
+      ],
+      "135": [
+        [
+          "image4.png",
+          "media/image4.png"
+        ]
+      ],
+      "149": [
+        [
+          "image5.png",
+          "media/image5.png"
+        ]
+      ],
+      "220": [
+        [
+          "image6.png",
+          "media/image6.png"
+        ]
+      ],
+      "234": [
+        [
+          "image7.png",
+          "media/image7.png"
+        ]
+      ],
+      "247": [
+        [
+          "image8.png",
+          "media/image8.png"
+        ]
+      ],
+      "271": [
+        [
+          "image9.png",
+          "media/image9.png"
+        ]
+      ],
+      "337": [
+        [
+          "image10.png",
+          "media/image10.png"
+        ]
+      ],
+      "356": [
+        [
+          "image11.png",
+          "media/image11.png"
+        ]
+      ],
+      "366": [
+        [
+          "image12.png",
+          "media/image12.png"
+        ]
+      ],
+      "406": [
+        [
+          "image13.png",
+          "media/image13.png"
+        ]
+      ],
+      "446": [
+        [
+          "image14.png",
+          "media/image14.png"
+        ]
+      ],
+      "498": [
+        [
+          "image15.png",
+          "media/image15.png"
+        ]
+      ],
+      "513": [
+        [
+          "image16.png",
+          "media/image16.png"
+        ]
+      ],
+      "557": [
+        [
+          "image17.png",
+          "media/image17.png"
+        ]
+      ],
+      "579": [
+        [
+          "image18.png",
+          "media/image18.png"
+        ]
+      ],
+      "590": [
+        [
+          "image19.png",
+          "media/image19.png"
+        ]
+      ],
+      "661": [
+        [
+          "image20.png",
+          "media/image20.png"
+        ]
+      ],
+      "708": [
+        [
+          "image21.png",
+          "media/image21.png"
+        ]
+      ],
+      "714": [
+        [
+          "image22.png",
+          "media/image22.png"
+        ]
+      ],
+      "773": [
+        [
+          "image23.png",
+          "media/image23.png"
+        ]
+      ],
+      "820": [
+        [
+          "image24.png",
+          "media/image24.png"
+        ]
+      ],
+      "893": [
+        [
+          "image25.png",
+          "media/image25.png"
+        ]
+      ],
+      "904": [
+        [
+          "image26.png",
+          "media/image26.png"
+        ]
+      ],
+      "921": [
+        [
+          "image27.png",
+          "media/image27.png"
+        ]
+      ],
+      "1008": [
+        [
+          "image28.png",
+          "media/image28.png"
+        ]
+      ],
+      "1025": [
+        [
+          "image29.png",
+          "media/image29.png"
+        ]
+      ],
+      "1068": [
+        [
+          "image30.png",
+          "media/image30.png"
+        ]
+      ],
+      "1119": [
+        [
+          "image31.png",
+          "media/image31.png"
+        ]
+      ],
+      "1177": [
+        [
+          "image32.png",
+          "media/image32.png"
+        ]
+      ],
+      "1186": [
+        [
+          "image33.png",
+          "media/image33.png"
+        ]
+      ],
+      "1234": [
+        [
+          "image34.png",
+          "media/image34.png"
+        ]
+      ],
+      "1275": [
+        [
+          "image35.png",
+          "media/image35.png"
+        ]
+      ],
+      "1318": [
+        [
+          "image36.png",
+          "media/image36.png"
+        ]
+      ],
+      "1380": [
+        [
+          "image37.png",
+          "media/image37.png"
+        ]
+      ],
+      "1439": [
+        [
+          "image38.png",
+          "media/image38.png"
+        ]
+      ],
+      "1445": [
+        [
+          "image39.png",
+          "media/image39.png"
+        ]
+      ],
+      "1488": [
+        [
+          "image40.png",
+          "media/image40.png"
+        ]
+      ],
+      "1517": [
+        [
+          "image41.png",
+          "media/image41.png"
+        ]
+      ],
+      "1545": [
+        [
+          "image42.png",
+          "media/image42.png"
+        ]
+      ],
+      "1614": [
+        [
+          "image43.png",
+          "media/image43.png"
+        ]
+      ],
+      "1665": [
+        [
+          "image44.png",
+          "media/image44.png"
+        ]
+      ],
+      "1691": [
+        [
+          "image45.png",
+          "media/image45.png"
+        ]
+      ],
+      "1738": [
+        [
+          "image46.png",
+          "media/image46.png"
+        ]
+      ],
+      "1768": [
+        [
+          "image47.png",
+          "media/image47.png"
+        ]
+      ],
+      "1798": [
+        [
+          "image48.png",
+          "media/image48.png"
+        ]
+      ],
+      "1848": [
+        [
+          "image49.png",
+          "media/image49.png"
+        ]
+      ],
+      "1892": [
+        [
+          "image50.png",
+          "media/image50.png"
+        ]
+      ],
+      "1902": [
+        [
+          "image51.png",
+          "media/image51.png"
+        ]
+      ],
+      "1967": [
+        [
+          "image52.png",
+          "media/image52.png"
+        ]
+      ],
+      "1998": [
+        [
+          "image53.png",
+          "media/image53.png"
+        ]
+      ],
+      "2043": [
+        [
+          "image54.png",
+          "media/image54.png"
+        ]
+      ],
+      "2090": [
+        [
+          "image55.png",
+          "media/image55.png"
+        ]
+      ]
+    }
+  },
+  "tables": {
+    "grid": 131,
+    "boxes": {
+      "box_paraphrase": 12,
+      "box_case": 17,
+      "box_term": 12,
+      "box_other": 0
+    }
+  },
+  "references_sections": 17,
+  "char_accounting": {
+    "source_chars": 263886,
+    "output_chars": 263886,
+    "deviation_pct": 0.0
+  },
+  "checks": [
+    {
+      "item": "章节文件数",
+      "got": 34,
+      "expect": 34
+    },
+    {
+      "item": "插图数(blip)",
+      "got": 55,
+      "expect": 55
+    },
+    {
+      "item": "图题段数",
+      "got": 55,
+      "expect": 55
+    },
+    {
+      "item": "网格表数",
+      "got": 131,
+      "expect": 131
+    },
+    {
+      "item": "1x1特殊框数",
+      "got": 41,
+      "expect": 41
+    },
+    {
+      "item": "表格总数",
+      "got": 172,
+      "expect": 172
+    },
+    {
+      "item": "本章参考文献",
+      "got": 17,
+      "expect": 17
+    }
+  ],
+  "passed": true
+}
