@@ -1,0 +1,17 @@
+{
+  "name": "stratcom",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@11.25.0",
+  "scripts": {
+    "docs:dev": "vitepress dev book",
+    "docs:build": "vitepress build book",
+    "docs:preview": "vitepress preview book",
+    "content:check": "python3 scripts/normalize_markdown.py --check book/*.md",
+    "contributions:check": "python3 scripts/validate_contributions.py"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
